@@ -1,1 +1,2 @@
 # 2401010125_LabAssignment5
+This project solves a real-world delivery route optimization problem using multiple algorithmic strategies. It integrates recursion for route cost calculation, greedy methods for parcel selection, dynamic programming for time-window validation, graph algorithms like Dijkstra and MST for route optimization, and brute-force TSP for optimal path finding. The project demonstrates trade-offs between efficiency and accuracy in logistics optimization.
